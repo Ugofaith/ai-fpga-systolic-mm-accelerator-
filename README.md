@@ -45,6 +45,6 @@ Our project is contained within a single Jupyter Notebook that executes the foll
 2. Add your GOOGLE_API_KEY to the Colab Secrets tab.
 3. Run all cells to see the AI-assisted design process in action.
 
-*Author:* [Favour Ezeogu, Ugo Uche James, Anaike]  
+*Author:* Ugo Uche James 
 *Course:*Advanced FPGA Design  
 *Date:* April 2026
